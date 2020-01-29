@@ -1,0 +1,6 @@
+set_io PB1 A5
+set_io LED1 B5
+set_io LED2 C5
+set_io CDONE_A D3
+set_io OSC_CLK_A B3
+
