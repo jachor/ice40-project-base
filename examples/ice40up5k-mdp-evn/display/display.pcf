@@ -1,0 +1,15 @@
+set_io PB1 A5
+set_io LED1 B5
+set_io LED2 C5
+set_io CDONE_A D3
+set_io OSC_CLK_A B3
+
+set_io DSI_LP_CLKP E4
+set_io DSI_LP_CLKN D5
+set_io DSI_LP_D0P F5
+set_io DSI_LP_D0N E5
+set_io DSI_HS_CLKP C3
+set_io DSI_HS_D0P B1
+set_io DSI_HS_D0N F2
+set_io DSI_HS_CLKN F4
+
